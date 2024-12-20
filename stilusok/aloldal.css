@@ -69,6 +69,7 @@ ul li {
 ul li a {
     color: #007BFF;
     text-decoration: none;
+    margin-right: 50px;
 }
 
 ul li a:hover {
@@ -158,10 +159,6 @@ ul li a:hover {
     padding: 0 1rem;
     background: black;
     border-radius: 5px;
-}
-
-li a {
-    margin-right: 10px;
 }
 
 /* Mobil verzió */
